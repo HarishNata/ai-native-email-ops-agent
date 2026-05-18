@@ -1,0 +1,18 @@
+[
+  {
+    "label": "project_request",
+    "message": "Happy to connect. Do you have an example of a project you have done that you could send me with a GitHub repo?"
+  },
+  {
+    "label": "scheduling",
+    "message": "Can we schedule a quick call next week to discuss the role?"
+  },
+  {
+    "label": "job_opportunity",
+    "message": "We are hiring for a junior AI native engineer role. Are you interested?"
+  },
+  {
+    "label": "follow_up",
+    "message": "Just checking in to see if you had a chance to send the project link."
+  }
+]
