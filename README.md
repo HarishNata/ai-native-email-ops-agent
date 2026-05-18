@@ -136,10 +136,6 @@ Tests disable LLM by default and mock OpenAI for LLM-specific cases. CI does not
 }
 ```
 
-## Resume Bullet
-
-Built an AI email operations agent with Python, FastAPI, and OpenAI structured outputs to classify messages, extract action items, draft replies, and track follow-ups — with rule-based fallback, SQLite persistence, JSON logging, and pytest coverage.
-
 ## Future Improvements
 
 - Gmail API integration
